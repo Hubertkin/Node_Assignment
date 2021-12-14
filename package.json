@@ -5,7 +5,9 @@
   "main": "node_server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "nodemon express_server.js"
+    "serve": "nodemon express_server.js",
+    "start": "node express_server.js"
+
   },
   "keywords": [],
   "author": "",
